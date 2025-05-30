@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:101010&height=120&section=header&text=Welcome+to+my+GitHub!&fontColor=FFFFFF&fontSize=30&fontAlign=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:101010&height=120&section=header&text=++++++++Welcome+to+my+GitHub!&fontColor=FFFFFF&fontSize=30&fontAlign=40&fontAlignY=35" />
 </p>
 
 ---
