@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Welcome+Airdrop+Hunter+%F0%9F%91%8B+%7C+Node.js+%7C+Python+%7C+JavaScript+Lover" alt="Welcome Airdrop Hunter | Node.js | Python | JavaScript Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+Airdrop+Hunter+%F0%9F%91%8B;Node.js" alt="Typing SVG" />
 </h1>
+
 
 
 ---
