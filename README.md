@@ -1,14 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=400&lines=Welcome+Airdrop+Hunter+%F0%9F%91%8B" alt="Welcome Airdrop Hunter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Welcome+Airdrop+Hunter+%F0%9F%91%8B+%7C+Node.js+%7C+Python+%7C+JavaScript+Lover" alt="Welcome Airdrop Hunter | Node.js | Python | JavaScript Lover" />
 </h1>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=F75C7E&center=true&vCenter=true&width=450&lines=Node.js+%7C+Python+%7C+JavaScript+Lover+%F0%9F%91%8B" alt="Node.js | Python | JavaScript Lover" />
-</h2>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=F75C7E&center=true&vCenter=true&width=400&lines=Bot+Builder+%7C+Web+Explorer" alt="Bot Builder | Web Explorer" />
-</h3>
 
 ---
 
