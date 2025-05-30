@@ -1,16 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+Airdrop+Hunter+%F0%9F%91%8B" alt="Welcome Airdrop Hunter" />
-</h1>
-
-<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Node.js+%7C+Python+%7C+JavaScript" alt="Node.js | Python | JavaScript" />
-</h2>
+</h1>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🛠️ Welcome, Airdrop Hunter  
 - 🤖 Focused on building tools, Telegram bots, and web apps  
 - 🔍 Exploring automation, APIs, and scripts  
 
@@ -45,11 +40,4 @@
 
 <p align="center">
   <a href="https://t.me/independendropers"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://x.com/Deasaputra_12"><img src="https://img.shields.io/badge/X-Deasaputra_12-black?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siyoell12&label=Profile+views&color=ff69b4&style=flat-square" alt="profile views" />
-</p>
+  <a href="https://x.com/Deasaputra_12"><img src="https://img.shields.io/badge/X-_
