@@ -1,26 +1,21 @@
-<!-- Profil README -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Deasaputra12;Welcome+Airdrop+Hunter+%F0%9F%94%91;Node.js+%7C+Python+%7C+JavaScript+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Node.js+%7C+Python+%7C+JavaScript+Lover;Welcome+to+siyoell12's+GitHub+Profile+%F0%9F%91%8B;Airdrop+Hunter+%7C+Bot+Builder+%7C+Web+Explorer" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:101010&height=120&section=header&text=++++++++Welcome+to+my+GitHub!&fontColor=FFFFFF&fontSize=30&fontAlign=40&fontAlignY=35" />
-</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-- 🛠️ Welcome Airdrop Hunter
-- 💻 Focused on building tools, Telegram bots, and web apps
-- 🔍 Exploring automation, APIs, and scripting
+- 🛠️ Welcome, Airdrop Hunter  
+- 🤖 Focused on building tools, Telegram bots, and web apps  
+- 🔍 Exploring automation, APIs, and scripts  
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,html,css,linux,bash,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,js,html,css,linux,bash,github&theme=dark" />
 </p>
 
 ---
@@ -34,27 +29,15 @@
 
 ---
 
-## 🔥 Top Languages
+## 📈 Most Used Language
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyoell12&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=css,scss" />
-</p>
-
-<p align="center">
-  💡 Most Used: <strong>Node.js</strong>, <strong>Python</strong>, <strong>JavaScript</strong>
-</p>
+| Language | Usage |
+|----------|--------|
+| ![Node.js](https://img.shields.io/badge/Node.js-75%25-yellowgreen?style=for-the-badge&logo=node.js&logoColor=white) | Main Stack |
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siyoell12&theme=monokai&no-bg=true&no-frame=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Social Media
 
 <p align="center">
   <a href="https://t.me/independendropers"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
