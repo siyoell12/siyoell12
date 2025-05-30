@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+Airdrop+Hunter+%F0%9F%91%8B;Node.js;Python;JavaScript+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+Airdrop+Hunter+%F0%9F%91%8B" alt="Welcome Airdrop Hunter" />
 </h1>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Node.js+%7C+Python+%7C+JavaScript" alt="Node.js | Python | JavaScript" />
+</h2>
 
 ---
 
