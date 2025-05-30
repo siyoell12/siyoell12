@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Deasaputra12</h1>
-<p align="center">WELCOME AIRDROP HUNTER, building tools, web apps, and Telegram bots.</p>
+<p align="center">WELCOME AIRDROP HUNTER</p>
 
 ---
 
