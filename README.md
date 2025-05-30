@@ -1,4 +1,3 @@
-<!-- Profil README -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Deasaputra12;Cybersecurity+Enthusiast+%F0%9F%94%91;Node.js+%7C+Python+%7C+JavaScript+Lover" alt="Typing SVG" />
 </h1>
@@ -11,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-- 🛠️ Cybersecurity enthusiast from Indonesia
-- 💻 Focused on building tools, Telegram bots, and web apps
-- 🔍 Exploring automation, APIs, and scripting
+- 🛠️ Welcome Airdrop Hunter
+- 💻 Focused on building tools, Telegram bots, and web apps  
+- 🔍 Exploring automation, APIs, and scripting  
 
 ---
 
@@ -25,23 +24,21 @@
 
 ---
 
+## 🧠 Most Used Languages
+
+| Language | Usage |
+|----------|--------|
+| ![Node.js](https://img.shields.io/badge/Node.js-75%25-yellowgreen?style=for-the-badge&logo=node.js&logoColor=white) | Primary Stack |
+
+> ⚠️ *Note: GitHub may detect this as "JavaScript", but this project mainly uses the Node.js runtime.*
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siyoell12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=siyoell12&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyoell12&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=css,scss" />
-</p>
-
-<p align="center">
-  💡 Most Used: <strong>Node.js</strong>, <strong>Python</strong>, <strong>JavaScript</strong>
 </p>
 
 ---
