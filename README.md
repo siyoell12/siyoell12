@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Node.js+%7C+Python+%7C+JavaScript+Lover;Welcome+to+siyoell12's+GitHub+Profile+%F0%9F%91%8B;Airdrop+Hunter+%7C+Bot+Builder+%7C+Web+Explorer" alt="Typing SVG" />
 </h1>
 
+<marquee behavior="scroll" direction="left" scrollamount="8" style="color:#00FF00; font-family: 'Courier New', Courier, monospace; font-size: 1.2rem; margin-bottom: 20px;">
+  ⚡ HACKER MODE ACTIVATED ⚡ &nbsp;&nbsp;&nbsp; 🚀 BOT BUILDER ON DUTY 🚀 &nbsp;&nbsp;&nbsp; 💻 AUTOMATION EXPERT 💻
+</marquee>
+
 ---
 
 ## 🙋‍♂️ About Me
