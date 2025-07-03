@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ <span style="color:#2196F3;">About Me</span>
 - 🛠️ Welcome, Airdrop Hunter 
-- 🤖 <span style="color:#E91E63;">Focused on building tools, Telegram bots, and web apps</span>  
-- 🔍 <span style="color:#9C27B0;">Exploring automation, APIs, and scripts</span>  
 
 ---
 
