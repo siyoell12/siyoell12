@@ -6,7 +6,6 @@
 
 ## 🙋‍♂️ <span style="color:#2196F3;">About Me</span>
 - 🛠️ Welcome, Airdrop Hunter 
-
 ---
 
 ## 🚀 Tech Stack
