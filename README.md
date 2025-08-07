@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=+%7C+Python+%7C+JavaScript" alt="Node.js | Python | JavaScript" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=+Python+%7C+JavaScript" alt="Node.js | Python | JavaScript" />
 </h1>
 
 ---
