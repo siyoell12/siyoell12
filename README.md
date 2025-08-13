@@ -1,47 +1,37 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=+Python+%7C+JavaScript" alt="Node.js | Python | JavaScript" />
-</h1>
+# 👋 Hi, I'm [DEA SAPUTRA]  
 
----
+🌟 **Full Stack Developer | Open Source Enthusiast | Lifelong Learner**  
+💡 Always curious about new tech, clean code, and creative problem solving.  
 
-## 🙋‍♂️ <span style="color:#2196F3;">About Me</span>
-- 🛠️ Welcome, Airdrop Hunter 
 ---
 
 ## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,bash,github&theme=dark" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siyoell12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=siyoell12&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siyoell12&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siyoell12&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📈 Most Used Language
-
-| Language | Usage |
-|----------|--------|
-| ![Node.js](https://img.shields.io/badge/Node.js-75%25-yellowgreen?style=for-the-badge&logo=node.js&logoColor=white) | Main Stack |
+## ✨ Highlight Projects
+- 🔹 [**Project 1**](https://github.com/siyoell12/youtube-auto-uploader) — Deskripsi singkat
+- 🔹 [**Project 2**](https://github.com/siyoell12/scan-data-ktp) — Deskripsi singkat
 
 ---
 
-## 🌐 Social Media
-
-<p align="center">
-  <a href="https://t.me/independendropers"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://x.com/Deasaputra_12"><img src="https://img.shields.io/badge/X-Deasaputra_12-black?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_KAMU)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_KAMU)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siyoell12&label=Profile+views&color=ff69b4&style=flat-square" alt="profile views" />
-</p>
+> 💬 _"Code is like humor. When you have to explain it, it’s bad."_  
+
