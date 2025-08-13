@@ -32,7 +32,7 @@
 | Project | Description |
 |---------|-------------|
 | [**SCAN DATA KTP**](https://github.com/siyoell12/scan-data-ktp) | 🔹 Tool pintar berbasis OCR untuk memindai KTP dan langsung mengambil data penting secara akurat. |
-| [**Project 2**](https://github.com/siyoell12/youtube-auto-uploader) | 🔹 Deskripsi singkat |
+| [**YOUTUBE AUTO SHORT**](https://github.com/siyoell12/youtube-auto-uploader) | 🔹 Upload video Shorts ke YouTube otomatis, cepat, dan rapi—multi-akun, auto hashtag, tanpa ribet! |
 
 ---
 
