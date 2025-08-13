@@ -33,7 +33,7 @@
 ## 🌐 Let's Connect
 <p align="center">
   <a href="https://twitter.com/Deasaputra_12"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.com/users/airdropindependen"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="[https://discord.com/users/airdropindependen](https://discord.gg/Tuy2bR6CkU))"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://t.me/independendropers"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
