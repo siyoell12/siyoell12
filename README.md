@@ -16,14 +16,14 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siyoell12&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siyoell12&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## ✨ Highlight Projects
-- 🔹 [**Project 1**](https://github.com/USERNAME_KAMU/project1) — Deskripsi singkat
-- 🔹 [**Project 2**](https://github.com/USERNAME_KAMU/project2) — Deskripsi singkat
+- 🔹 [**Project 1**](https://github.com/siyoell12/scan-data-ktp) — Deskripsi singkat
+- 🔹 [**Project 2**](https://github.com/siyoell12/youtube-auto-uploader) — Deskripsi singkat
 
 ---
 
