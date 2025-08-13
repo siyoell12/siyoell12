@@ -1,10 +1,6 @@
 <!-- Profil Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#F7A600;">DEA SAPUTRA</span></h1>
 
-<!-- Wave SVG -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-
 ---
 
 ## 🚀 Tech Stack
