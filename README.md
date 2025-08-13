@@ -1,7 +1,8 @@
-# 👋 Hi, I'm [DEA SAPUTRA]  
+# 👋 Hi, I'm [Nama Kamu]  
 
-🌟 **Full Stack Developer | Open Source Enthusiast | Lifelong Learner**  
-💡 Always curious about new tech, clean code, and creative problem solving.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=700&lines=🌟+Full+Stack+Developer;🛠+Open+Source+Enthusiast;📚+Lifelong+Learner;💡+Always+Curious+About+New+Tech+and+Clean+Code" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -15,14 +16,14 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siyoell12&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siyoell12&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## ✨ Highlight Projects
-- 🔹 [**Project 1**](https://github.com/siyoell12/youtube-auto-uploader) — Deskripsi singkat
-- 🔹 [**Project 2**](https://github.com/siyoell12/scan-data-ktp) — Deskripsi singkat
+- 🔹 [**Project 1**](https://github.com/USERNAME_KAMU/project1) — Deskripsi singkat
+- 🔹 [**Project 2**](https://github.com/USERNAME_KAMU/project2) — Deskripsi singkat
 
 ---
 
@@ -33,5 +34,4 @@
 
 ---
 
-> 💬 _"Code is like humor. When you have to explain it, it’s bad."_  
-
+> 💬 _"Code is like humor. When you have to explain it, it’s bad."_
