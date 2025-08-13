@@ -31,7 +31,7 @@
 ## ✨ Highlight Projects
 | Project | Description |
 |---------|-------------|
-| [**Project 1**](https://github.com/siyoell12/scan-data-ktp) | 🔹 Deskripsi singkat |
+| [**Project 1**](https://github.com/siyoell12/scan-data-ktp) | 🔹 Tool pintar berbasis OCR untuk memindai KTP dan langsung mengambil data penting secara akurat. |
 | [**Project 2**](https://github.com/siyoell12/youtube-auto-uploader) | 🔹 Deskripsi singkat |
 
 ---
