@@ -25,16 +25,16 @@
 ## ✨ Highlight Projects
 | Project | Description |
 |---------|-------------|
-| [**SCAN DATA KTP**](https://github.com/siyoell12/scan-data-ktp) | 🔹 Tool pintar berbasis OCR untuk memindai KTP dan langsung mengambil data penting secara akurat. |
-| [**AUTO SHORT**](https://github.com/siyoell12/youtube-auto-uploader) | 🔹 Upload video Shorts ke YouTube otomatis, cepat, dan rapi—multi-akun, auto hashtag, tanpa ribet! |
+| [**SCAN DATA KTP**](https://github.com/siyoell12/scan-data-ktp) | 🔹 Tool pintar berbasis OCR untuk memindai KTP dan langsung mengambil data penting secara akurat!|
+| [**AUTO SHORT**](https://github.com/siyoell12/youtube-auto-uploader) | 🔹 Upload video Shorts ke YouTube otomatis, cepat, dan rapi—multi-akun, auto hashtag, tanpa ribet!
 
 ---
 
 ## 🌐 Let's Connect
 <p align="center">
-  <a href="https://twitter.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.com/users/USERNAME_KAMU"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://t.me/USERNAME_KAMU"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://twitter.com/Deasaputra_12"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://discord.com/users/airdropindependen"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://t.me/independendropers"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
