@@ -1,11 +1,9 @@
 <!-- Profil Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#F7A600;">DEA SAPUTRA</span></h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=700&lines=🌟+Full+Stack+Developer;🛠+Open+Source+Enthusiast;📚+Lifelong+Learner;💡+Always+Curious+About+New+Tech+and+Clean+Code" alt="Typing SVG" />
-</p>
 
 <!-- Wave SVG -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 
 ---
 
@@ -38,9 +36,9 @@
 
 ## 🌐 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME_KAMU"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://twitter.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://discord.com/users/USERNAME_KAMU"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://t.me/USERNAME_KAMU"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
