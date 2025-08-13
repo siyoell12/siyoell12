@@ -1,5 +1,5 @@
 <!-- Profil Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#F7A600;">DEA SAPUTRA</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#F7A600;">Dea Saputra</span></h1>
 
 ---
 
