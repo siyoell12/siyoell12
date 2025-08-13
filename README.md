@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Nama Kamu]  
+# 👋 Hi, I'm [DEA SAPUTRA]  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=700&lines=🌟+Full+Stack+Developer;🛠+Open+Source+Enthusiast;📚+Lifelong+Learner;💡+Always+Curious+About+New+Tech+and+Clean+Code" alt="Typing SVG" />
